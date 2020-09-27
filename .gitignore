@@ -35,5 +35,6 @@ hs_err_pid*
 .gitignore
 .idea/
 lotswxxwapp.iml
-src/
 target/generated-sources/
+target/classes/img/
+src/test/
